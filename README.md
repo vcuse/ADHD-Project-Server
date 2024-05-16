@@ -9,8 +9,9 @@ This is the server software to run the project. To use this software, you must f
 * If you need to get the IP of the server computer. Launch a command prompt on the server, type ipconfig and copy down the IPv4 address. This will be what is entered on the client side in virtual reality.
   ![](/Capture.PNG)
 
-
-
+To launch doubleclick the file in the extracted folder called MRTK3 Sample.exe and you should be greeted by a screen similar to this. You may now use your computer as normal. 
+![](/attentionCanvas.PNG)
+* Note that you will need to run the client on the Hololens 2 afterwards. Those instructions are in the [client repository.](https://github.com/vcuse/ADHD-Project-Client)
 # Troubleshooting
 
 There may be an issue with the client failing to connect to the server when the correct server IP is entered. In this case, it may be due to Windows Firewall rules preventing the TCP connection between the client and server. You can create a rule to allow the connection on port 32401.
