@@ -7,6 +7,7 @@ This project helps refocus users who get distracted while completing their work.
 
 This is the server software to run the project. To use this software, you must first install and launch the server side (this one) and then launch the client version of the software on a Micosoft Hololens 2. Enter the IP of the server computer into the hololens and it will connect and the user may begin to complete any work on the PC. 
 * If you need to get the IP of the server computer. Launch a command prompt on the server, type ipconfig and copy down the IPv4 address. This will be what is entered on the client side in virtual reality.
+  ![](/Capture.PNG)
 
 
 
