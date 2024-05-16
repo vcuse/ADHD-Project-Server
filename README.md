@@ -13,3 +13,8 @@ This is the server software to run the project. To use this software, you must f
 # Troubleshooting
 
 There may be an issue with the client failing to connect to the server when the correct server IP is entered. In this case, it may be due to Windows Firewall rules preventing the TCP connection between the client and server. You can create a rule to allow the connection on port 32401.
+
+
+# Plugins used:
+
+https://github.com/elringus/unity-raw-input used for determining when the user was interacting with their keyboard
