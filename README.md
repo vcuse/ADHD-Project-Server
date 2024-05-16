@@ -3,6 +3,7 @@
 This project helps refocus users who get distracted while completing their work. It does this by tracking the user's attentiveness using a combination of computer usage (is the user interacting with the KB + Mouse), gaze (where the user is looking), and position (has the user left the workspace). If the user is not paying attention according to any of these metrics, a sound will be played from the Hololens 2 telling them to focus. 
 
 -------------------------------------
+# How to use it
 
 This is the server software to run the project. To use this software, you must first install and launch the server side (this one) and then launch the client version of the software on a Micosoft Hololens 2. Enter the IP of the server computer into the hololens and it will connect and the user may begin to complete any work on the PC. 
 
